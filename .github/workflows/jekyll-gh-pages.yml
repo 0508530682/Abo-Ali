@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>نقل اثاث (عفش) بالرياض وخارجها</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            color: white;
+            background: url('/storage/emulated/0/موقع/c98a5845-5502-4fb5-b7c1-81fb1a4fc629.jpg') no-repeat center center fixed;
+            background-size: cover;
+        }
+        .overlay {
+            background-color: rgba(0, 0, 0, 0.7);
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        .description {
+            margin-bottom: 20px;
+            font-size: 18px;
+        }
+        .phone-number {
+            margin-bottom: 20px;
+            font-size: 20px;
+            color: yellow;
+        }
+        .twitter-link {
+            color: #1DA1F2;
+            text-decoration: none;
+            font-size: 20px;
+        }
+        .twitter-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="overlay">
+        <div class="description">
+            <h1>نقل اثاث (عفش) بالرياض وخارجها</h1>
+            <p>دينا نقل اثاث عفش داخل وخارج الرياض مع فك وتركيب وعمال بافضل الاسعار</p>
+        </div>
+        <div class="phone-number">
+            <p>للتواصل0504450738</p>
+        </div>
+        <a href="https://twitter.com/artist642647166" class="twitter-link">تابعنا على تويتر</a>
+    </div>
+</body>
+</html>
